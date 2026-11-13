@@ -126,11 +126,16 @@ Tindakan / Input: Memilih menu 8. Laporan Penjualan.
 6. Skenario Pengurutan Produk
 
 <img width="1066" height="904" alt="WhatsApp Image 2026-11-12 at 12 49 57" src="https://github.com/user-attachments/assets/82414f3e-fceb-412d-8b1e-1bd46af4a2a3" />
+<img width="1054" height="886" alt="WhatsApp Image 2026-11-12 at 12 49 57 (1)" src="https://github.com/user-attachments/assets/cc51a65c-04c7-4554-9a67-6dea5c3a13ff" />
+<img width="1054" height="886" alt="WhatsApp Image 2026-11-12 at 12 49 57 (4)" src="https://github.com/user-attachments/assets/9a64c112-ba43-4535-8e4e-7d31faf0fc47" />
+
 
 
 
 7. Skenario Pencarian Produk dan Cek Stok Menipis (< 5)
 
-Tindakan / Input: Memilih menu 6. Cari Produk dengan memasukkan kata kunci nama produk, serta memilih menu 9. Cek Stok Menipis.
+<img width="877" height="583" alt="WhatsApp Image 2026-11-12 at 13 03 37" src="https://github.com/user-attachments/assets/251898f9-383c-4887-8cb9-f67fd9a73d93" />
+<img width="870" height="279" alt="WhatsApp Image 2026-11-12 at 13 03 50" src="https://github.com/user-attachments/assets/7f5333bd-d131-4679-a6b7-408078d43619" />
+<img width="904" height="708" alt="WhatsApp Image 2026-11-12 at 12 49 58 (3)" src="https://github.com/user-attachments/assets/6cbe8d62-4f74-4564-bfea-249717745151" />
+<img width="868" height="903" alt="WhatsApp Image 2026-11-12 at 12 49 56 (2)" src="https://github.com/user-attachments/assets/8bb3d6b4-1b7d-45db-b454-2cebf5de1c8c" />
 
-Hasil yang Diharapkan: Pencarian menampilkan produk yang cocok dengan kata kunci, dan fitur cek stok menipis menampilkan produk yang stoknya berada di bawah 5 unit (seperti Bakso Kuah dengan stok awal 4).

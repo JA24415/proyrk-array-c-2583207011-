@@ -100,11 +100,7 @@ Bukti Tangkapan Layar:
 
 3. Skenario Pembaruan Stok Otomatis
 
-Tindakan / Input: Menyelesaikan transaksi pada skenario 2, lalu memeriksa menu 1. Lihat Daftar Produk.
-
-Hasil yang Diharapkan: Stok produk yang dibeli berkurang sesuai jumlah pembelian, dan kolom terjual bertambah.
-
-Bukti Tangkapan Layar:
+T<img width="868" height="903" alt="WhatsApp Image 2026-11-12 at 12 49 56 (1)" src="https://github.com/user-attachments/assets/17604023-708c-4a25-9c11-cede103fbe1e" />
 
 
 4. Skenario Validasi Stok Tidak Cukup

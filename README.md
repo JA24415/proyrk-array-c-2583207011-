@@ -87,11 +87,7 @@ Berikut adalah hasil pengujian program berdasarkan 7 skenario wajib yang telah d
 
 1. Skenario Tambah Produk
 
-Tindakan / Input: Memilih menu 2. Tambah Produk dan memasukkan data produk baru (misalnya:es teh tawar, Harga: 8000, Stok: 15).
-
-Hasil yang Diharapkan: Produk baru berhasil disimpan ke dalam array dan muncul saat menampilkan daftar produk.
-
-Bukti Tangkapan Layar:
+<img width="868" height="903" alt="WhatsApp Image 2026-11-12 at 12 49 56 (1)" src="https://github.com/user-attachments/assets/3d0a2197-eb77-495d-bc08-2f8f99ae1b66" />
 
 
 2. Skenario Transaksi Penjualan

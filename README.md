@@ -106,6 +106,7 @@ T<img width="868" height="903" alt="WhatsApp Image 2026-11-12 at 12 49 56 (1)" s
 4. Skenario Validasi Stok Tidak Cukup
 
 ![Uploading WhatsApp Image 2026-11-12 at 12.49.57 (2).jpeg…]()
+![Uploading WhatsApp Image 2026-11-12 at 12.49.57 (2).jpeg…]()
 
 
 

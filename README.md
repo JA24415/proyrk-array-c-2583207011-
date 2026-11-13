@@ -105,11 +105,8 @@ T<img width="868" height="903" alt="WhatsApp Image 2026-11-12 at 12 49 56 (1)" s
 
 4. Skenario Validasi Stok Tidak Cukup
 
-Tindakan / Input: Melakukan transaksi dengan jumlah pembelian yang melebihi sisa stok yang tersedia.
+![Uploading WhatsApp Image 2026-11-12 at 12.49.57 (2).jpeg…]()
 
-Hasil yang Diharapkan: Program menolak transaksi, menampilkan pesan peringatan bahwa stok tidak mencukupi, dan sisa stok tidak berubah.
-
-Bukti Tangkapan Layar:
 
 
 5. Skenario Laporan Penjualan

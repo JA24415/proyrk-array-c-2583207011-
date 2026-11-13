@@ -92,9 +92,8 @@ Berikut adalah hasil pengujian program berdasarkan 7 skenario wajib yang telah d
 
 2. Skenario Transaksi Penjualan
 
-Tindakan / Input: Memilih menu 4. Transaksi Penjualan dan membeli lebih dari satu jenis produk dalam satu sesi transaksi.
+<img width="972" height="832" alt="WhatsApp Image 2026-11-12 at 12 49 58 (2)" src="https://github.com/user-attachments/assets/3b4d1da9-7d9d-43e1-b499-7ef47d1aa37f" />
 
-Hasil yang Diharapkan: Program menampilkan rincian belanja, menghitung subtotal setiap item, dan menjumlahkan total pembayaran dengan akurat.
 
 Bukti Tangkapan Layar:
 

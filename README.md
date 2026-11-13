@@ -119,16 +119,14 @@ T<img width="868" height="903" alt="WhatsApp Image 2026-11-12 at 12 49 56 (1)" s
 Tindakan / Input: Memilih menu 8. Laporan Penjualan.
 
 <img width="972" height="832" alt="WhatsApp Image 2026-11-12 at 12 49 58 (2)" src="https://github.com/user-attachments/assets/ec973625-8487-405e-9737-2c68031d392d" />
+<img width="1066" height="904" alt="WhatsApp Image 2026-11-12 at 12 49 57" src="https://github.com/user-attachments/assets/cd3d0c19-299b-4a15-9b86-9eb79742213e" />
 
 
 
 6. Skenario Pengurutan Produk
 
-Tindakan / Input: Memilih menu 7. Urutkan Produk untuk mengurutkan berdasarkan harga termurah (opsi 1) dan penjualan terbanyak (opsi 2).
+<img width="1066" height="904" alt="WhatsApp Image 2026-11-12 at 12 49 57" src="https://github.com/user-attachments/assets/82414f3e-fceb-412d-8b1e-1bd46af4a2a3" />
 
-Hasil yang Diharapkan: Data produk ditampilkan secara terurut sesuai kriteria yang dipilih tanpa merusak indeks data asli.
-
-Bukti Tangkapan Layar:
 
 
 7. Skenario Pencarian Produk dan Cek Stok Menipis (< 5)

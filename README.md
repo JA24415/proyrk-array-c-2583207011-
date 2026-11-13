@@ -118,9 +118,8 @@ T<img width="868" height="903" alt="WhatsApp Image 2026-11-12 at 12 49 56 (1)" s
 
 Tindakan / Input: Memilih menu 8. Laporan Penjualan.
 
-Hasil yang Diharapkan: Menampilkan rincian pendapatan tiap produk, akumulasi total unit terjual, total pendapatan keseluruhan, serta menampilkan produk paling laris.
+<img width="972" height="832" alt="WhatsApp Image 2026-11-12 at 12 49 58 (2)" src="https://github.com/user-attachments/assets/ec973625-8487-405e-9737-2c68031d392d" />
 
-Bukti Tangkapan Layar:
 
 
 6. Skenario Pengurutan Produk
